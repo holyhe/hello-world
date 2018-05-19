@@ -1,2 +1,2 @@
 # hello-world
-Test for start  a repository
+Test for starting a repository
